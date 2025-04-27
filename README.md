@@ -59,7 +59,7 @@ Model ini dapat dimuat kembali untuk keperluan prediksi baru atau untuk melanjut
 
 ## Penutup
 Proyek ini merupakan contoh implementasi **Klasifikasi Gambar Bunga** menggunakan **Transfer Learning** dengan MobileNetV2.  
-Akurasinya sudah cukup tinggi, tetapi kamu masih bisa meningkatkan performa dengan:
+Akurasinya sudah cukup tinggi, tetapi masih bisa ditingkatkan dengan:
 - Menggunakan dataset yang lebih besar.
 - Menerapkan teknik **Data Augmentation** lebih agresif.
 - Menggunakan learning rate scheduler lebih lanjut seperti **Cosine Annealing** atau **OneCycle Policy**.
